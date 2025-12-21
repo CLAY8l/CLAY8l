@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CLAY8l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="160" alt="stats graph" />
   <img width="20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CLAY8l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="160" alt="languages graph" />
-  <img width="20" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzNjVmNTF4YnhqZ2E2MTV4NGVjOGR0NzRyc25zam16dmRnZTdscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" height="160" alt="animation" />
 </div>
 
 ---
