@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rachid;Data+Analytics+Student;AI+Enthusiast;Future+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+meeevxs;Data+Analytics+Student;AI+Enthusiast;Future+Data+Scientist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🎓 Data Analytics & Artificial Intelligence Student</h3>
