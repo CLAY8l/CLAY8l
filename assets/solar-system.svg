@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">CLAY8l's developer solar system</title>
+  <desc id="desc">A dark starfield with a glowing sun, three orbiting technology planets, and project paths.</desc>
+  <defs>
+    <radialGradient id="space" cx="50%" cy="45%" r="80%">
+      <stop offset="0" stop-color="#11182c"/>
+      <stop offset="1" stop-color="#050811"/>
+    </radialGradient>
+    <radialGradient id="sun">
+      <stop offset="0" stop-color="#fff5bf"/>
+      <stop offset=".55" stop-color="#ffd55c"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="small-glow"><feGaussianBlur stdDeviation="5"/></filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .label { fill: #f8fafc; font-size: 15px; font-weight: 700; }
+      .muted { fill: #94a3b8; font-size: 12px; }
+      .eyebrow { fill: #facc15; font-size: 12px; font-weight: 800; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <rect width="1200" height="560" rx="24" fill="url(#space)"/>
+  <g fill="#e2e8f0">
+    <circle cx="66" cy="82" r="2"/><circle cx="124" cy="420" r="1.5"/><circle cx="173" cy="142" r="1"/>
+    <circle cx="229" cy="66" r="1.5"/><circle cx="278" cy="485" r="2"/><circle cx="341" cy="108" r="1"/>
+    <circle cx="412" cy="45" r="1.5"/><circle cx="472" cy="496" r="1"/><circle cx="539" cy="74" r="2"/>
+    <circle cx="608" cy="453" r="1.5"/><circle cx="690" cy="53" r="1"/><circle cx="755" cy="112" r="1.5"/>
+    <circle cx="829" cy="487" r="2"/><circle cx="899" cy="72" r="1"/><circle cx="980" cy="156" r="1.5"/>
+    <circle cx="1054" cy="450" r="1"/><circle cx="1134" cy="98" r="2"/><circle cx="1160" cy="355" r="1.5"/>
+    <circle cx="93" cy="282" r="1"/><circle cx="330" cy="300" r="1"/><circle cx="1020" cy="300" r="1"/>
+  </g>
+  <text x="34" y="40" class="mono eyebrow">SOLAR SYSTEM · @CLAY8L</text>
+  <text x="1165" y="40" text-anchor="end" class="mono muted">DATA · AI · BUILD · LEARN</text>
+  <g fill="none" stroke="#334155" stroke-dasharray="3 9">
+    <ellipse cx="600" cy="290" rx="205" ry="92"/>
+    <ellipse cx="600" cy="290" rx="345" ry="150"/>
+    <ellipse cx="600" cy="290" rx="493" ry="214"/>
+  </g>
+  <circle cx="600" cy="290" r="104" fill="#fbbf24" opacity=".14" filter="url(#glow)"/>
+  <circle cx="600" cy="290" r="61" fill="url(#sun)" stroke="#fff1a8" stroke-width="4"/>
+  <circle cx="600" cy="290" r="45" fill="#fff7cf" opacity=".35"/>
+  <path d="M578 300h16v16h-16zm28-35h17v51h-17zm29 28h16v23h-16z" fill="#6d67c8" opacity=".8"/>
+  <text x="600" y="385" text-anchor="middle" class="mono label">ME</text>
+  <text x="600" y="405" text-anchor="middle" class="mono muted">data analytics · AI</text>
+  <g>
+    <line x1="395" y1="198" x2="221" y2="155" stroke="#64748b"/>
+    <circle cx="395" cy="198" r="22" fill="#e86b16"/>
+    <path d="M378 198h34M386 190c4-5 12-5 17 0M386 206c4 5 12 5 17 0" fill="none" stroke="#ffd19e" stroke-width="2"/>
+    <text x="211" y="139" text-anchor="end" class="mono label">Cleaning-Bank-Marketing</text>
+    <text x="211" y="158" text-anchor="end" class="mono muted">Jupyter Notebook · 20%</text>
+  </g>
+  <g>
+    <line x1="790" y1="165" x2="936" y2="120" stroke="#64748b"/>
+    <circle cx="790" cy="165" r="27" fill="#9b6cff"/>
+    <path d="M778 153l22 12-22 12z" fill="#f5edff"/>
+    <text x="949" y="105" class="mono label">Clothing-Shopping-App</text>
+    <text x="949" y="124" class="mono muted">Kotlin · 80%</text>
+  </g>
+  <g>
+    <line x1="900" y1="367" x2="1034" y2="423" stroke="#64748b"/>
+    <circle cx="900" cy="367" r="24" fill="#347bb5"/>
+    <circle cx="900" cy="367" r="10" fill="none" stroke="#dbeafe" stroke-width="2"/>
+    <path d="M889 367h22M900 356v22" stroke="#dbeafe" stroke-width="2"/>
+    <text x="1048" y="412" class="mono label">UR-Python</text>
+    <text x="1048" y="431" class="mono muted">Python · 1%</text>
+  </g>
+  <circle cx="1020" cy="273" r="4" fill="#facc15" filter="url(#small-glow)"/>
+  <circle cx="310" cy="380" r="3" fill="#facc15" filter="url(#small-glow)"/>
+  <text x="34" y="520" class="mono muted">planets = languages · moons = projects · orbit = progress</text>
+  <text x="1165" y="520" text-anchor="end" class="mono muted">github.com/CLAY8l</text>
+</svg>
