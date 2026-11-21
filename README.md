@@ -7,18 +7,6 @@
   <em>Transforming data into insights | Building intelligent solutions | Learning every day</em>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently studying **Data Analytics and Artificial Intelligence**
-- 🌱 Learning advanced **Machine Learning** and **Deep Learning** techniques
-- 💡 Passionate about solving real-world problems with data
-- 🎯 Goal: Become a skilled **Data Scientist** and **AI Engineer**
-- ⚡ Fun fact: I love exploring new technologies and building projects
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
